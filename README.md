@@ -1,4 +1,4 @@
-### 🛒 Amazon.com Clone
+# 🛒 Amazon.com Clone
 
 A modern, static web page replicating the homepage of Amazon.com. This project is built entirely with **HTML** and **CSS**, showcasing a clean, responsive layout and a user interface similar to the original website.
 
@@ -40,13 +40,21 @@ This is a static website. No server or build tools required.
 
 1. Clone the repository:
 
-   ```bash
+```bash
    git clone https://github.com/your-username/amazon-clone.git
    cd amazon-clone
-Open the project in your preferred code editor.
+````
 
-▶️ Running the Project
-Open the index.html file in any modern web browser.
+2. Open the project in your preferred code editor.
 
-##🙏 Acknowledgments
-Design inspired by Amazon.com
+### ▶️ Running the Project
+
+Open the `index.html` file in any modern web browser.
+
+---
+
+## 🙏 Acknowledgments
+
+* Design inspired by **[Amazon.com](https://www.amazon.com/)**
+
+---
