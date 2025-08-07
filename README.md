@@ -30,8 +30,8 @@ A modern, static web page replicating the homepage of Amazon.com. This project i
 
 **Frontend:**
 
-- HTML5  
-- CSS3
+- HTML  
+- CSS
 
 ---
 
