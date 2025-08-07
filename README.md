@@ -4,7 +4,7 @@ A modern, static web page replicating the homepage of Amazon.com. This project i
 
 ---
 
-![Amazon Clone Preview](image.png)
+![Amazon Clone Preview](Image.png)
 
 
 ## 🚀 Features
