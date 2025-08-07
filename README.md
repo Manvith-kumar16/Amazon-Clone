@@ -1,4 +1,4 @@
-🛒 Amazon.com Clone
+🛒 AMAZON.COM CLONE
 
 
 
