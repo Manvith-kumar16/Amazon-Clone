@@ -1,4 +1,4 @@
-# 🛒 Amazon.com Clone
+### 🛒 Amazon.com Clone
 
 A modern, static web page replicating the homepage of Amazon.com. This project is built entirely with **HTML** and **CSS**, showcasing a clean, responsive layout and a user interface similar to the original website.
 
@@ -48,5 +48,5 @@ Open the project in your preferred code editor.
 ▶️ Running the Project
 Open the index.html file in any modern web browser.
 
-🙏 Acknowledgments
+##🙏 Acknowledgments
 Design inspired by Amazon.com
